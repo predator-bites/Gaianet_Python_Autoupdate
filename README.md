@@ -14,6 +14,7 @@ git clone https://github.com/predator-bites/Gaianet_Python_Autoupdate
 ```
 
 🔴Заполняем файл servers.txt данными про сервера в формате ip:password.
+
 🔴Скачиваем необходимые библиотеки:
 ```
 pip install -r requirements.txt
