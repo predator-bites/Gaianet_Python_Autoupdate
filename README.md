@@ -7,9 +7,6 @@
 
 🔴Скачать прямо с cmd:
 ```
-pip install git
-```
-```
 git clone https://github.com/predator-bites/Gaianet_Python_Autoupdate
 ```
 
