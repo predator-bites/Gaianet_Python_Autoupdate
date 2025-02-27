@@ -23,3 +23,5 @@ pip install -r requirements.txt
 ```
 py update.py
 ```
+
+Congratulations, вы секономили много времени.
